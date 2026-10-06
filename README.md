@@ -1,6 +1,6 @@
 # 🎓 Repositori Tugas Kuliah - Aditya Satria Nugraha
 
-Selamat datang di repositori pribadi tugas kuliah **Aditya Satria Nugraha** (NIM: **19220055**).
+Selamat datang di repositori pribadi tugas kuliah **Aditya Satria Nugraha**
 Website ini dirancang secara modern, responsif, dan fleksibel untuk menyimpan, mengelompokkan (Individu / Kelompok), dan menampilkan seluruh tugas kuliah secara terorganisir.
 
 ---
